@@ -1,6 +1,6 @@
 <div align="center">
 
-# `wolf.exe`
+# `darksudas`
 
 ### software · game development · systems
 
@@ -18,9 +18,9 @@
 │ user        : Wolf Dev                                       │
 │ focus       : software / game development                    │
 │ environment : Windows                                        │
-│ status      : learning                                        │
+│ status      : learning                                       │
 │                                                              │
-│ objective   : build things worth understanding                │
+│ objective   : build things worth understanding               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
