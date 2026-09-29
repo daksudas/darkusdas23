@@ -156,6 +156,5 @@ This profile is a place to document that process.
 
 <br>
 
-`[ system online ]`
 
 </div>
